@@ -1,0 +1,6 @@
+@TalentFlow.Infrastructue_HostAddress = http://localhost:5064
+
+GET {{TalentFlow.Infrastructue_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
