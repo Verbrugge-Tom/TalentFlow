@@ -311,9 +311,6 @@
             "projectReferences": {
               "D:\\TalentFlow\\TalentFlow\\TalentFlow.Application\\TalentFlow.Application.csproj": {
                 "projectPath": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Application\\TalentFlow.Application.csproj"
-              },
-              "D:\\TalentFlow\\TalentFlow\\TalentFlow.Domain\\TalentFlow.Domain.csproj": {
-                "projectPath": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Domain\\TalentFlow.Domain.csproj"
               }
             }
           }
