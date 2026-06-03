@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TalentFlow\\TalentFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87157D1A-25A1-4F80-844A-7843837CE8F1}|TalentFlow.Domain\\TalentFlow.Domain.csproj|d:\\talentflow\\talentflow\\talentflow.domain\\entities\\audition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87157D1A-25A1-4F80-844A-7843837CE8F1}|TalentFlow.Domain\\TalentFlow.Domain.csproj|solutionrelative:talentflow.domain\\entities\\audition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6572200D-2299-435B-8180-621C596FCD4D}|TalentFlow.Api\\TalentFlow.Api.csproj|d:\\talentflow\\talentflow\\talentflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572200D-2299-435B-8180-621C596FCD4D}|TalentFlow.Api\\TalentFlow.Api.csproj|solutionrelative:talentflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87157D1A-25A1-4F80-844A-7843837CE8F1}|TalentFlow.Domain\\TalentFlow.Domain.csproj|d:\\talentflow\\talentflow\\talentflow.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87157D1A-25A1-4F80-844A-7843837CE8F1}|TalentFlow.Domain\\TalentFlow.Domain.csproj|solutionrelative:talentflow.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A5C9B8C-58CA-406D-8DB3-0BFBECB6C743}|TalentFlow.Infrastructure\\TalentFlow.Infrastructure.csproj|d:\\talentflow\\talentflow\\talentflow.infrastructure\\talentflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C9B8C-58CA-406D-8DB3-0BFBECB6C743}|TalentFlow.Infrastructure\\TalentFlow.Infrastructure.csproj|solutionrelative:talentflow.infrastructure\\talentflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,28 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "TalentFlow.Domain\\Entities\\ApplicationUser.cs",
-              "ToolTip": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "TalentFlow.Domain\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TalentFlow.Api\\Program.cs",
+              "ToolTip": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Api\\Program.cs",
+              "RelativeToolTip": "TalentFlow.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:57:22.023Z",
+              "WhenOpened": "2026-06-03T11:43:10.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Audition.cs",
-              "DocumentMoniker": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Domain\\Entities\\Audition.cs",
-              "RelativeDocumentMoniker": "TalentFlow.Domain\\Entities\\Audition.cs",
-              "ToolTip": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Domain\\Entities\\Audition.cs",
-              "RelativeToolTip": "TalentFlow.Domain\\Entities\\Audition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TalentFlowDbContext.cs",
+              "DocumentMoniker": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Infrastructure\\TalentFlowDbContext.cs",
+              "RelativeDocumentMoniker": "TalentFlow.Infrastructure\\TalentFlowDbContext.cs",
+              "ToolTip": "D:\\TalentFlow\\TalentFlow\\TalentFlow.Infrastructure\\TalentFlowDbContext.cs",
+              "RelativeToolTip": "TalentFlow.Infrastructure\\TalentFlowDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:40:12.745Z",
+              "WhenOpened": "2026-06-03T11:38:23.697Z",
               "EditorCaption": ""
             }
           ]
