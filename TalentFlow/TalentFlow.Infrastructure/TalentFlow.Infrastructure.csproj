@@ -21,7 +21,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TalentFlow.Application\TalentFlow.Application.csproj" />
-    <ProjectReference Include="..\TalentFlow.Domain\TalentFlow.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\" />
   </ItemGroup>
 
 </Project>
