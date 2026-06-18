@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentFlow.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c9cdc81f190e478730c7c1c909d6b37e68f0a3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a672bf7b4664918bc7cc269db999b3634b895d7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentFlow.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentFlow.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
