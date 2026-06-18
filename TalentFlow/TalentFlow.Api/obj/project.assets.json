@@ -1775,8 +1775,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.27",
           "Microsoft.Extensions.Configuration": "8.0.0",
           "Microsoft.Extensions.Configuration.Json": "8.0.1",
-          "TalentFlow.Application": "1.0.0",
-          "TalentFlow.Domain": "1.0.0"
+          "TalentFlow.Application": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TalentFlow.Infrastructure.dll": {}
